@@ -97,7 +97,7 @@ section.destaque {
     background-size: cover;
     background-position: top;
     width: 100%;
-    min-height: 600px;
+    min-height: 700px;
     position: absolute;
     z-index: 1;
 }
